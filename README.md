@@ -1,13 +1,13 @@
 # GuitarPedal
 
 ## Présentation du projet
-Étant un grand passionné de musique et d'electronique, j'ai décidé de réaliser une pédale de guitare.
+Passionné de musique et d'electronique, j'ai décidé de réaliser une pédale de guitare.
 
-Pour simplifier le processus, le projet repose sur une raspberry pi4 que j'ai transformé en carte son avec une carte pisound.
+### Matériel
+Afin de me concentrer sur la partie software, j'ai utilisé une Raspberry Pi4 couplée à une Pi Sound card afin de pouvoir brancher ma guitare.
 
-### Pré-requis
-
-### Installation
+### Logiciel
+Le logiciel est codé en C
 
 ## Utilisation
 
